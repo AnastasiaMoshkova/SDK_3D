@@ -1,0 +1,10 @@
+﻿  FaceTrackingRenderer2D.cpp
+src\FaceTrackingRenderer2D.cpp(110): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+src\FaceTrackingRenderer2D.cpp(113): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+src\FaceTrackingRenderer2D.cpp(116): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+src\FaceTrackingRenderer2D.cpp(119): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+src\FaceTrackingRenderer2D.cpp(374): warning C4244: 'argument': conversion from 'pxcF32' to 'const int', possible loss of data
+src\FaceTrackingRenderer2D.cpp(375): warning C4244: 'argument': conversion from 'pxcF32' to 'const int', possible loss of data
+src\FaceTrackingRenderer2D.cpp(376): warning C4244: 'argument': conversion from 'pxcF32' to 'const int', possible loss of data
+  DF_FaceTracking_vs2015.vcxproj -> C:\Users\pupil3000\Documents\RSSDK\Samples\DF_FaceTracking\bin/x64/DF_FaceTracking.exe
+  DF_FaceTracking_vs2015.vcxproj -> bin/x64/DF_FaceTracking.pdb (Full PDB)

@@ -1,0 +1,6989 @@
+frame number 411
+frame number 411
+frame number 0
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 1
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 2
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 3
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 4
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 5
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 6
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 7
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 61
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 8
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 40
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 9
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 44
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 10
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 26
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 11
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 10
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 12
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 52
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 13
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 100
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 14
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 93
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 15
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 73
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 16
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 63
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 17
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 13
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 18
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 78
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 19
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 20
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 68
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 21
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 8
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 22
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 23
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 24
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 25
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 26
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 27
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 28
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 62
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 29
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 46
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 30
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 46
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 31
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 12
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 32
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 33
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 88
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 34
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 35
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 36
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 37
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 38
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 39
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 40
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 41
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 42
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 97
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 43
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 84
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 44
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 68
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 45
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 62
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 46
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 58
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 47
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 37
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 48
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 30
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 49
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 13
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 50
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 51
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 24
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 52
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 27
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 53
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 24
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 54
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 31
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 55
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 35
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 56
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 33
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 57
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 40
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 58
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 50
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 59
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 50
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 60
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 46
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 61
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 46
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 62
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 50
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 63
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 100
+Closed Eye Right 100
+Eyes Turn Left 0
+Eyes Turn Right 37
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 64
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 100
+Closed Eye Right 100
+Eyes Turn Left 0
+Eyes Turn Right 27
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 65
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 100
+Closed Eye Right 100
+Eyes Turn Left 0
+Eyes Turn Right 25
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 66
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 100
+Closed Eye Right 100
+Eyes Turn Left 0
+Eyes Turn Right 19
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 67
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 100
+Eyes Turn Left 0
+Eyes Turn Right 17
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 68
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 12
+Eyes Up 0
+Eyes Down 99
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 69
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 0
+Eyes Down 37
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 70
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 0
+Eyes Down 16
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 71
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 0
+Eyes Down 11
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 72
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 73
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 0
+Eyes Down 10
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 74
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 0
+Eyes Down 13
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 75
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 0
+Eyes Down 37
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 76
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 7
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 0
+Eyes Down 72
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 77
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 28
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 78
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 40
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 79
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 41
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 11
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 80
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 35
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 12
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 81
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 43
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 13
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 82
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 55
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 21
+Eyes Up 0
+Eyes Down 96
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 83
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 54
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 24
+Eyes Up 0
+Eyes Down 85
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 84
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 57
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 29
+Eyes Up 0
+Eyes Down 97
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 85
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 54
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 29
+Eyes Up 0
+Eyes Down 77
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 86
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 72
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 36
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 87
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 62
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 34
+Eyes Up 0
+Eyes Down 92
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 88
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 57
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 38
+Eyes Up 0
+Eyes Down 71
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 89
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 53
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 45
+Eyes Up 0
+Eyes Down 68
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 90
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 48
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 49
+Eyes Up 0
+Eyes Down 65
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 91
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 62
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 51
+Eyes Up 0
+Eyes Down 52
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 92
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 49
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 65
+Eyes Up 0
+Eyes Down 74
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 93
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 55
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 77
+Eyes Up 0
+Eyes Down 71
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 94
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 56
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 91
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 95
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 51
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 96
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 42
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 97
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 36
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 98
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 22
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 99
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 17
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 83
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 100
+Brow Raised Left 0
+Brow Raised Right 40
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 13
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 86
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 101
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 22
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 97
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 102
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 16
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 87
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 103
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 12
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 75
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 104
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 20
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 47
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 105
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 6
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 46
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 106
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 17
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 35
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 107
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 12
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 21
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 108
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 8
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 20
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 109
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 7
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 96
+Eyes Up 0
+Eyes Down 19
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 110
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 15
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 91
+Eyes Up 0
+Eyes Down 14
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 111
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 13
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 86
+Eyes Up 0
+Eyes Down 14
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 112
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 12
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 86
+Eyes Up 0
+Eyes Down 10
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 113
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 9
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 85
+Eyes Up 0
+Eyes Down 9
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 114
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 2
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 84
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 115
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 4
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 84
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 116
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 5
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 83
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 117
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 5
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 83
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 118
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 5
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 82
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 119
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 3
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 82
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 120
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 7
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 81
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 121
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 81
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 122
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 80
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 123
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 80
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 124
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 80
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 125
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 79
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 126
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 79
+Eyes Up 0
+Eyes Down 9
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 127
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 78
+Eyes Up 0
+Eyes Down 25
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 128
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 76
+Eyes Up 0
+Eyes Down 35
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 129
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 75
+Eyes Up 0
+Eyes Down 38
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 130
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 75
+Eyes Up 0
+Eyes Down 38
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 131
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 73
+Eyes Up 0
+Eyes Down 45
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 132
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 72
+Eyes Up 0
+Eyes Down 51
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 133
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 70
+Eyes Up 0
+Eyes Down 58
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 134
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 69
+Eyes Up 0
+Eyes Down 65
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 135
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 67
+Eyes Up 0
+Eyes Down 69
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 136
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 66
+Eyes Up 0
+Eyes Down 74
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 137
+Brow Raised Left 0
+Brow Raised Right 40
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 63
+Eyes Up 0
+Eyes Down 79
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 138
+Brow Raised Left 0
+Brow Raised Right 80
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 62
+Eyes Up 0
+Eyes Down 82
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 139
+Brow Raised Left 0
+Brow Raised Right 100
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 61
+Eyes Up 0
+Eyes Down 86
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 140
+Brow Raised Left 0
+Brow Raised Right 60
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 60
+Eyes Up 0
+Eyes Down 87
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 141
+Brow Raised Left 40
+Brow Raised Right 100
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 56
+Eyes Up 0
+Eyes Down 93
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 142
+Brow Raised Left 80
+Brow Raised Right 100
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 55
+Eyes Up 0
+Eyes Down 96
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 143
+Brow Raised Left 100
+Brow Raised Right 100
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 43
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 144
+Brow Raised Left 60
+Brow Raised Right 100
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 37
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 145
+Brow Raised Left 100
+Brow Raised Right 60
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 20
+Eyes Up 0
+Eyes Down 97
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 146
+Brow Raised Left 60
+Brow Raised Right 100
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 10
+Eyes Up 0
+Eyes Down 85
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 147
+Brow Raised Left 100
+Brow Raised Right 100
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 13
+Eyes Up 0
+Eyes Down 82
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 148
+Brow Raised Left 60
+Brow Raised Right 60
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 13
+Eyes Turn Right 0
+Eyes Up 0
+Eyes Down 47
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 149
+Brow Raised Left 20
+Brow Raised Right 20
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 28
+Eyes Turn Right 0
+Eyes Up 0
+Eyes Down 18
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 150
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 2
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 46
+Eyes Turn Right 0
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 151
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 54
+Eyes Turn Right 0
+Eyes Up 31
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 152
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 63
+Eyes Turn Right 0
+Eyes Up 41
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 153
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 78
+Eyes Turn Right 0
+Eyes Up 59
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 154
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 76
+Eyes Turn Right 0
+Eyes Up 86
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 155
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 72
+Eyes Turn Right 0
+Eyes Up 98
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 156
+Brow Raised Left 0
+Brow Raised Right 40
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 60
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 157
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 58
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 158
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 53
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 159
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 52
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 160
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 48
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 161
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 43
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 162
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 43
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 163
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 42
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 164
+Brow Raised Left 0
+Brow Raised Right 40
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 39
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 165
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 40
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 166
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 37
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 167
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 2
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 36
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 168
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 4
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 37
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 169
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 4
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 37
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 170
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 6
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 35
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 171
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 8
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 33
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 172
+Brow Raised Left 0
+Brow Raised Right 40
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 9
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 31
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 173
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 11
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 27
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 174
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 9
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 25
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 175
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 10
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 22
+Eyes Turn Right 0
+Eyes Up 74
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 176
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 21
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 13
+Eyes Turn Right 0
+Eyes Up 38
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 177
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 18
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 40
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 178
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 14
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 50
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 179
+Brow Raised Left 0
+Brow Raised Right 40
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 19
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 70
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 180
+Brow Raised Left 0
+Brow Raised Right 80
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 15
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 51
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 181
+Brow Raised Left 0
+Brow Raised Right 100
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 6
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 60
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 182
+Brow Raised Left 0
+Brow Raised Right 60
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 22
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 17
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 183
+Brow Raised Left 0
+Brow Raised Right 20
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 15
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 17
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 184
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 18
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 15
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 185
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 14
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 27
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 186
+Brow Raised Left 0
+Brow Raised Right 40
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 12
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 40
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 187
+Brow Raised Left 0
+Brow Raised Right 80
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 9
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 47
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 188
+Brow Raised Left 0
+Brow Raised Right 40
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 10
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 55
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 189
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 6
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 63
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 190
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 6
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 72
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 191
+Brow Raised Left 0
+Brow Raised Right 40
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 2
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 81
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 192
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 8
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 85
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 193
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 4
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 90
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 194
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 12
+Eyes Up 86
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 195
+Brow Raised Left 0
+Brow Raised Right 40
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 6
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 13
+Eyes Up 85
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 196
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 5
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 13
+Eyes Up 90
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 197
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 8
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 16
+Eyes Up 89
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 198
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 7
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 17
+Eyes Up 90
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 199
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 5
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 18
+Eyes Up 91
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 200
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 7
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 18
+Eyes Up 93
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 201
+Brow Raised Left 0
+Brow Raised Right 40
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 6
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 20
+Eyes Up 95
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 202
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 3
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 20
+Eyes Up 96
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 203
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 1
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 19
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 204
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 4
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 19
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 205
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 4
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 20
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 206
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 3
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 21
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 207
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 1
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 22
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 208
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 24
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 209
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 26
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 210
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 29
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 211
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 29
+Eyes Up 97
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 212
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 31
+Eyes Up 97
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 213
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 33
+Eyes Up 97
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 214
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 35
+Eyes Up 97
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 215
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 6
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 36
+Eyes Up 96
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 216
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 8
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 38
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 217
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 18
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 37
+Eyes Up 99
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 218
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 25
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 38
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 219
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 27
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 39
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 220
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 31
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 39
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 221
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 39
+Kiss 0
+Mouth Open 1
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 39
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 222
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 79
+Kiss 0
+Mouth Open 1
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 36
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 223
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 87
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 33
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 224
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 98
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 29
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 225
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 88
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 28
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 226
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 93
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 26
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 227
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 96
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 25
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 228
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 96
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 22
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 229
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 100
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 21
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 230
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 96
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 20
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 231
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 96
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 17
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 232
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 99
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 17
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 233
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 98
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 16
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 234
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 98
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 16
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 235
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 100
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 15
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 236
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 100
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 14
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 237
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 100
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 14
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 238
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 100
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 13
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 239
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 100
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 10
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 240
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 100
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 10
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 241
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 100
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 10
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 242
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 100
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 10
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 243
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 100
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 10
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 244
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 100
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 245
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 100
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 246
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 97
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 247
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 77
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 13
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 248
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 76
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 14
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 249
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 78
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 16
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 250
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 79
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 16
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 251
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 80
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 18
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 252
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 80
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 18
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 253
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 79
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 19
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 254
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 79
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 20
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 255
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 79
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 22
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 256
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 72
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 24
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 257
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 72
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 24
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 258
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 75
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 25
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 259
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 74
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 26
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 260
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 75
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 26
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 261
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 76
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 26
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 262
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 67
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 26
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 263
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 43
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 28
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 264
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 22
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 32
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 265
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 36
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 266
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 41
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 267
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 44
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 268
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 49
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 269
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 51
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 270
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 55
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 271
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 62
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 272
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 66
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 273
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 65
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 274
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 68
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 275
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 100
+Closed Eye Right 100
+Eyes Turn Left 0
+Eyes Turn Right 61
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 276
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 100
+Closed Eye Right 100
+Eyes Turn Left 0
+Eyes Turn Right 53
+Eyes Up 62
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 277
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 100
+Closed Eye Right 100
+Eyes Turn Left 0
+Eyes Turn Right 55
+Eyes Up 49
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 278
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 100
+Closed Eye Right 100
+Eyes Turn Left 0
+Eyes Turn Right 56
+Eyes Up 33
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 279
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 100
+Closed Eye Right 45
+Eyes Turn Left 0
+Eyes Turn Right 58
+Eyes Up 0
+Eyes Down 32
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 280
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 56
+Eyes Up 0
+Eyes Down 67
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 281
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 47
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 282
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 40
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 283
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 19
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 284
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 285
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 286
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 12
+Eyes Up 0
+Eyes Down 56
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 287
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 14
+Eyes Up 0
+Eyes Down 19
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 288
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 289
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 70
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 290
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 291
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 292
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 14
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 293
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 294
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 14
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 295
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 26
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 296
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 39
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 297
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 55
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 298
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 66
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 299
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 69
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 300
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 71
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 301
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 73
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 302
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 73
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 303
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 78
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 304
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 82
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 305
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 96
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 306
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 98
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 307
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 99
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 308
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 309
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 98
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 310
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 95
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 311
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 96
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 312
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 313
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 3
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 314
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 10
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 315
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 10
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 27
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 316
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 59
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 317
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 33
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 318
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 1
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 31
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 319
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 15
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 320
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 11
+Eyes Turn Right 0
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 321
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 322
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 17
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 323
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 16
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 324
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 34
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 325
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 36
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 326
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 66
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 327
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 97
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 328
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 329
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 330
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 331
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 332
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 333
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 334
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 335
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 336
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 337
+Brow Raised Left 40
+Brow Raised Right 40
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 83
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 338
+Brow Raised Left 80
+Brow Raised Right 80
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 86
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 339
+Brow Raised Left 40
+Brow Raised Right 100
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 100
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 340
+Brow Raised Left 0
+Brow Raised Right 60
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 96
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 341
+Brow Raised Left 0
+Brow Raised Right 20
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 85
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 342
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 59
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 343
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 34
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 344
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 345
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 31
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 346
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 63
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 347
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 90
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 348
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 349
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 350
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 351
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 352
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 353
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 354
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 355
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 92
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 356
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 85
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 357
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 84
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 358
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 76
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 359
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 80
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 360
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 71
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 361
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 78
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 362
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 71
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 363
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 82
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 364
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 74
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 365
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 75
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 366
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 77
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 367
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 74
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 368
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 71
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 369
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 69
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 370
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 65
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 371
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 48
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 372
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 27
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 373
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 22
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 374
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 375
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 27
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 376
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 50
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 377
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 65
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 378
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 55
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 379
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 23
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 380
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 381
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 382
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 100
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 383
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 72
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 384
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 33
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 385
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 0
+Eyes Up 21
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 386
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 16
+Eyes Up 18
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 387
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 16
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 388
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 29
+Eyes Up 24
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 389
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 33
+Eyes Up 12
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 390
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 25
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 391
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 28
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 392
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 36
+Eyes Up 9
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 393
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 79
+Eyes Up 32
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 394
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 94
+Eyes Up 36
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 395
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 27
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 396
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 20
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 397
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 94
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 398
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 399
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 400
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 401
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 13
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 402
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 403
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 404
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 405
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 0
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 406
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 17
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 407
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 25
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 408
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 33
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 409
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 32
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0
+frame number 410
+Brow Raised Left 0
+Brow Raised Right 0
+Brow Lowered Left 0
+Brow Lowered Right 0
+Smile 0
+Kiss 0
+Mouth Open 0
+Closed Eye Left 0
+Closed Eye Right 0
+Eyes Turn Left 0
+Eyes Turn Right 100
+Eyes Up 44
+Eyes Down 0
+Tongue Out 0
+Puff Right Cheek 0
+Puff Left Cheek 0

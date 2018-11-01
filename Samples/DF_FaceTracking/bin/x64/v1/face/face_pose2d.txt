@@ -1,0 +1,813 @@
+frame number 234
+frame number 1
+Yaw 9
+Pitch 0
+Roll 18
+frame number 2
+Yaw -69
+Pitch -43
+Roll 24
+frame number 24
+Yaw -25
+Pitch -7
+Roll 11
+frame number 25
+Yaw -28
+Pitch -5
+Roll 5
+frame number 26
+Yaw -23
+Pitch -8
+Roll 8
+frame number 27
+Yaw -26
+Pitch 0
+Roll 9
+frame number 28
+Yaw -25
+Pitch 5
+Roll 1
+frame number 29
+Yaw -26
+Pitch 4
+Roll 1
+frame number 30
+Yaw -26
+Pitch 7
+Roll 0
+frame number 31
+Yaw -27
+Pitch 8
+Roll 1
+frame number 32
+Yaw -28
+Pitch 8
+Roll 2
+frame number 33
+Yaw -28
+Pitch 9
+Roll 2
+frame number 34
+Yaw -28
+Pitch 9
+Roll 2
+frame number 45
+Yaw -13
+Pitch -8
+Roll 3
+frame number 46
+Yaw -3
+Pitch -6
+Roll 1
+frame number 47
+Yaw -5
+Pitch -6
+Roll 4
+frame number 48
+Yaw -3
+Pitch 0
+Roll 0
+frame number 49
+Yaw -10
+Pitch -8
+Roll 0
+frame number 50
+Yaw -5
+Pitch -5
+Roll 1
+frame number 51
+Yaw -5
+Pitch -6
+Roll 6
+frame number 52
+Yaw -7
+Pitch -10
+Roll 4
+frame number 53
+Yaw -12
+Pitch 3
+Roll 10
+frame number 54
+Yaw -6
+Pitch 4
+Roll 11
+frame number 55
+Yaw -12
+Pitch 8
+Roll 15
+frame number 56
+Yaw -7
+Pitch 16
+Roll 14
+frame number 57
+Yaw -2
+Pitch 8
+Roll 14
+frame number 58
+Yaw -1
+Pitch 4
+Roll 14
+frame number 59
+Yaw 0
+Pitch 4
+Roll 15
+frame number 60
+Yaw 0
+Pitch 3
+Roll 14
+frame number 61
+Yaw 0
+Pitch 3
+Roll 15
+frame number 62
+Yaw 1
+Pitch 3
+Roll 15
+frame number 63
+Yaw 0
+Pitch 3
+Roll 14
+frame number 64
+Yaw 0
+Pitch 2
+Roll 14
+frame number 65
+Yaw 0
+Pitch 2
+Roll 14
+frame number 66
+Yaw 0
+Pitch 2
+Roll 14
+frame number 67
+Yaw 1
+Pitch 4
+Roll 14
+frame number 68
+Yaw 1
+Pitch 4
+Roll 13
+frame number 69
+Yaw -3
+Pitch -6
+Roll 12
+frame number 70
+Yaw -5
+Pitch 0
+Roll 9
+frame number 71
+Yaw -8
+Pitch 1
+Roll 9
+frame number 72
+Yaw -15
+Pitch 3
+Roll 6
+frame number 73
+Yaw -23
+Pitch 1
+Roll 9
+frame number 74
+Yaw -25
+Pitch 0
+Roll 5
+frame number 75
+Yaw -20
+Pitch 12
+Roll 5
+frame number 76
+Yaw -24
+Pitch 8
+Roll 2
+frame number 77
+Yaw -24
+Pitch 9
+Roll 2
+frame number 78
+Yaw -22
+Pitch 12
+Roll 2
+frame number 79
+Yaw -19
+Pitch 12
+Roll 1
+frame number 80
+Yaw -18
+Pitch 7
+Roll 0
+frame number 81
+Yaw -18
+Pitch 7
+Roll 0
+frame number 82
+Yaw -18
+Pitch 7
+Roll 0
+frame number 83
+Yaw -18
+Pitch 6
+Roll 0
+frame number 84
+Yaw -18
+Pitch 5
+Roll 0
+frame number 85
+Yaw -17
+Pitch 5
+Roll 0
+frame number 86
+Yaw -18
+Pitch 3
+Roll 0
+frame number 87
+Yaw -18
+Pitch 3
+Roll 1
+frame number 88
+Yaw -16
+Pitch 4
+Roll 1
+frame number 89
+Yaw -13
+Pitch 5
+Roll 1
+frame number 90
+Yaw -9
+Pitch 5
+Roll 1
+frame number 91
+Yaw -4
+Pitch 5
+Roll 1
+frame number 92
+Yaw -3
+Pitch 5
+Roll 1
+frame number 93
+Yaw 0
+Pitch 5
+Roll 2
+frame number 94
+Yaw 1
+Pitch 5
+Roll 3
+frame number 95
+Yaw 2
+Pitch 6
+Roll 3
+frame number 96
+Yaw 2
+Pitch 6
+Roll 4
+frame number 97
+Yaw 1
+Pitch 5
+Roll 3
+frame number 98
+Yaw 1
+Pitch 6
+Roll 3
+frame number 99
+Yaw 1
+Pitch 7
+Roll 3
+frame number 100
+Yaw 2
+Pitch 7
+Roll 3
+frame number 101
+Yaw 2
+Pitch 7
+Roll 3
+frame number 102
+Yaw 1
+Pitch 8
+Roll 3
+frame number 103
+Yaw 1
+Pitch 8
+Roll 4
+frame number 104
+Yaw 1
+Pitch 8
+Roll 4
+frame number 105
+Yaw 1
+Pitch 8
+Roll 4
+frame number 106
+Yaw 1
+Pitch 8
+Roll 4
+frame number 107
+Yaw 1
+Pitch 8
+Roll 4
+frame number 108
+Yaw 0
+Pitch 8
+Roll 4
+frame number 109
+Yaw 0
+Pitch 8
+Roll 3
+frame number 110
+Yaw 0
+Pitch 8
+Roll 3
+frame number 111
+Yaw 0
+Pitch 8
+Roll 3
+frame number 112
+Yaw 0
+Pitch 8
+Roll 3
+frame number 113
+Yaw 0
+Pitch 8
+Roll 4
+frame number 114
+Yaw 0
+Pitch 8
+Roll 4
+frame number 115
+Yaw 0
+Pitch 8
+Roll 4
+frame number 116
+Yaw 0
+Pitch 8
+Roll 4
+frame number 117
+Yaw -1
+Pitch 7
+Roll 4
+frame number 118
+Yaw -4
+Pitch 6
+Roll 4
+frame number 119
+Yaw -5
+Pitch 6
+Roll 4
+frame number 120
+Yaw -5
+Pitch 6
+Roll 4
+frame number 121
+Yaw -5
+Pitch 6
+Roll 4
+frame number 122
+Yaw -5
+Pitch 5
+Roll 4
+frame number 123
+Yaw -5
+Pitch 5
+Roll 4
+frame number 124
+Yaw -6
+Pitch 5
+Roll 4
+frame number 125
+Yaw -5
+Pitch 5
+Roll 4
+frame number 126
+Yaw -10
+Pitch 3
+Roll 4
+frame number 127
+Yaw -10
+Pitch 3
+Roll 4
+frame number 128
+Yaw -10
+Pitch 3
+Roll 4
+frame number 129
+Yaw -10
+Pitch 3
+Roll 4
+frame number 130
+Yaw -7
+Pitch 5
+Roll 4
+frame number 131
+Yaw -5
+Pitch 4
+Roll 4
+frame number 132
+Yaw -4
+Pitch 5
+Roll 4
+frame number 133
+Yaw -1
+Pitch 6
+Roll 4
+frame number 134
+Yaw -1
+Pitch 6
+Roll 5
+frame number 135
+Yaw -1
+Pitch 6
+Roll 4
+frame number 136
+Yaw -1
+Pitch 6
+Roll 4
+frame number 137
+Yaw -1
+Pitch 6
+Roll 4
+frame number 138
+Yaw 0
+Pitch 6
+Roll 4
+frame number 139
+Yaw 0
+Pitch 6
+Roll 4
+frame number 140
+Yaw -2
+Pitch 5
+Roll 4
+frame number 141
+Yaw -3
+Pitch 5
+Roll 3
+frame number 142
+Yaw -4
+Pitch 5
+Roll 3
+frame number 143
+Yaw -8
+Pitch 4
+Roll 2
+frame number 144
+Yaw -8
+Pitch 4
+Roll 2
+frame number 145
+Yaw -10
+Pitch 3
+Roll 2
+frame number 146
+Yaw -10
+Pitch 2
+Roll 1
+frame number 147
+Yaw -10
+Pitch 2
+Roll 1
+frame number 148
+Yaw -12
+Pitch -1
+Roll 1
+frame number 149
+Yaw -12
+Pitch -4
+Roll 2
+frame number 150
+Yaw -11
+Pitch -7
+Roll 2
+frame number 151
+Yaw -10
+Pitch -9
+Roll 2
+frame number 152
+Yaw -10
+Pitch -9
+Roll 1
+frame number 153
+Yaw -10
+Pitch -11
+Roll 2
+frame number 154
+Yaw -10
+Pitch -11
+Roll 2
+frame number 155
+Yaw -10
+Pitch -11
+Roll 2
+frame number 156
+Yaw -10
+Pitch -12
+Roll 2
+frame number 157
+Yaw -10
+Pitch -12
+Roll 2
+frame number 158
+Yaw -10
+Pitch -12
+Roll 2
+frame number 159
+Yaw -10
+Pitch -12
+Roll 2
+frame number 160
+Yaw -10
+Pitch -12
+Roll 2
+frame number 161
+Yaw -9
+Pitch -13
+Roll 3
+frame number 162
+Yaw -7
+Pitch -11
+Roll 3
+frame number 163
+Yaw -7
+Pitch -10
+Roll 3
+frame number 164
+Yaw -4
+Pitch -6
+Roll 3
+frame number 165
+Yaw -3
+Pitch -5
+Roll 4
+frame number 166
+Yaw -3
+Pitch -5
+Roll 4
+frame number 167
+Yaw -6
+Pitch 3
+Roll 4
+frame number 168
+Yaw -5
+Pitch -3
+Roll 4
+frame number 169
+Yaw -6
+Pitch -3
+Roll 4
+frame number 170
+Yaw -4
+Pitch -2
+Roll 4
+frame number 171
+Yaw -3
+Pitch -2
+Roll 3
+frame number 172
+Yaw -1
+Pitch -2
+Roll 2
+frame number 173
+Yaw 0
+Pitch -2
+Roll 3
+frame number 174
+Yaw 0
+Pitch -2
+Roll 2
+frame number 175
+Yaw 0
+Pitch -2
+Roll 2
+frame number 176
+Yaw 0
+Pitch -1
+Roll 2
+frame number 177
+Yaw 0
+Pitch 0
+Roll 1
+frame number 178
+Yaw -11
+Pitch 1
+Roll -3
+frame number 179
+Yaw -8
+Pitch -6
+Roll 0
+frame number 180
+Yaw -16
+Pitch -4
+Roll 1
+frame number 181
+Yaw -18
+Pitch 2
+Roll 1
+frame number 182
+Yaw -17
+Pitch 2
+Roll 2
+frame number 183
+Yaw -17
+Pitch 2
+Roll 2
+frame number 184
+Yaw -17
+Pitch 2
+Roll 2
+frame number 185
+Yaw -16
+Pitch 2
+Roll 3
+frame number 186
+Yaw -10
+Pitch 2
+Roll 5
+frame number 187
+Yaw -9
+Pitch 4
+Roll 7
+frame number 188
+Yaw -1
+Pitch 7
+Roll 6
+frame number 189
+Yaw -2
+Pitch 6
+Roll 7
+frame number 190
+Yaw 0
+Pitch 9
+Roll 7
+frame number 191
+Yaw 2
+Pitch 10
+Roll 7
+frame number 192
+Yaw 1
+Pitch 10
+Roll 7
+frame number 193
+Yaw 1
+Pitch 10
+Roll 8
+frame number 194
+Yaw 2
+Pitch 8
+Roll 8
+frame number 195
+Yaw 0
+Pitch 7
+Roll 6
+frame number 196
+Yaw -4
+Pitch 3
+Roll 6
+frame number 197
+Yaw -8
+Pitch 6
+Roll 5
+frame number 198
+Yaw -11
+Pitch 8
+Roll 5
+frame number 199
+Yaw -17
+Pitch 1
+Roll 4
+frame number 200
+Yaw -18
+Pitch 7
+Roll 3
+frame number 201
+Yaw -16
+Pitch 8
+Roll 4
+frame number 202
+Yaw -17
+Pitch 8
+Roll 4
+frame number 203
+Yaw -17
+Pitch 8
+Roll 4
+frame number 204
+Yaw -17
+Pitch 8
+Roll 4
+frame number 205
+Yaw -17
+Pitch 8
+Roll 4
+frame number 206
+Yaw -14
+Pitch 6
+Roll 5
+frame number 207
+Yaw -13
+Pitch 4
+Roll 5
+frame number 208
+Yaw -12
+Pitch 3
+Roll 5
+frame number 209
+Yaw -12
+Pitch 2
+Roll 6
+frame number 210
+Yaw -11
+Pitch 0
+Roll 6
+frame number 211
+Yaw -12
+Pitch 1
+Roll 6
+frame number 212
+Yaw -10
+Pitch 0
+Roll 6
+frame number 213
+Yaw -10
+Pitch 0
+Roll 6
+frame number 214
+Yaw -10
+Pitch 0
+Roll 6
+frame number 215
+Yaw -14
+Pitch 2
+Roll 7
+frame number 216
+Yaw -17
+Pitch 1
+Roll 8
+frame number 217
+Yaw -19
+Pitch 2
+Roll 8
+frame number 218
+Yaw -19
+Pitch 2
+Roll 8
+frame number 219
+Yaw -17
+Pitch -1
+Roll 9
+frame number 220
+Yaw -18
+Pitch -1
+Roll 9
+frame number 221
+Yaw -18
+Pitch -1
+Roll 9
+frame number 222
+Yaw -18
+Pitch -1
+Roll 9
+frame number 223
+Yaw -17
+Pitch -1
+Roll 8
+frame number 224
+Yaw -17
+Pitch -1
+Roll 8
+frame number 225
+Yaw -15
+Pitch 0
+Roll 8
+frame number 226
+Yaw -15
+Pitch 0
+Roll 8
+frame number 227
+Yaw -14
+Pitch 0
+Roll 8
+frame number 228
+Yaw -14
+Pitch 0
+Roll 8
+frame number 229
+Yaw -11
+Pitch 0
+Roll 8
+frame number 230
+Yaw -12
+Pitch 0
+Roll 8
+frame number 231
+Yaw -12
+Pitch -1
+Roll 7
+frame number 232
+Yaw -11
+Pitch -2
+Roll 8
+frame number 233
+Yaw -11
+Pitch -2
+Roll 8
+frame number 234
+Yaw -11
+Pitch -2
+Roll 8
