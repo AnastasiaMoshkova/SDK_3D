@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\SDK\Leap_Motion_Developer_Kit_4.0.0+52173\LeapSDK\samples\GLUTSample.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SDK\Leap_Motion_Developer_Kit_4.0.0+52173\LeapSDK\samples\ExampleConnection.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SDK\Leap_Motion_Developer_Kit_4.0.0+52173\LeapSDK\samples\GLutils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\SDK\Leap_Motion_Developer_Kit_4.0.0+52173\LeapSDK\samples\ExampleConnection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SDK\Leap_Motion_Developer_Kit_4.0.0+52173\LeapSDK\samples\GLutils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\SDK\Leap_Motion_Developer_Kit_4.0.0+52173\LeapSDK\samples\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{47A89886-E8DE-3456-AF3B-5EFAC2D9E052}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1C23804C-8E1F-3622-A4E3-B280E3163F49}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

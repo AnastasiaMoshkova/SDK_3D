@@ -1,0 +1,7 @@
+﻿  Building Custom Rule D:/SDK/Leap_Motion_Developer_Kit_4.0.0+52173/LeapSDK/samples/CMakeLists.txt
+  CMake does not need to re-run because D:/SDK/Leap_Motion_Developer_Kit_4.0.0+52173/LeapSDK/build/CMakeFiles/generate.stamp is up-to-date.
+  GLUTImageSample.c
+  ExampleConnection.c
+  GLutils.c
+  Generating Code...
+  GLUTImageSample.vcxproj -> D:\SDK\Leap_Motion_Developer_Kit_4.0.0+52173\LeapSDK\build\Release\GLUTImageSample.exe

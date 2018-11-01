@@ -1,0 +1,9 @@
+﻿  RecordPlaybackSample.c
+D:\SDK\Leap_Motion_Developer_Kit_4.0.0+52173\LeapSDK\samples\RecordPlaybackSample.c(53): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+D:\SDK\Leap_Motion_Developer_Kit_4.0.0+52173\LeapSDK\samples\RecordPlaybackSample.c(90): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+D:\SDK\Leap_Motion_Developer_Kit_4.0.0+52173\LeapSDK\samples\RecordPlaybackSample.c(40): warning C4101: 'key': unreferenced local variable
+D:\SDK\Leap_Motion_Developer_Kit_4.0.0+52173\LeapSDK\samples\RecordPlaybackSample.c(48): warning C4101: 'code': unreferenced local variable
+D:\SDK\Leap_Motion_Developer_Kit_4.0.0+52173\LeapSDK\samples\RecordPlaybackSample.c(47): warning C4101: 'ch': unreferenced local variable
+  RecordPlaybackSample.vcxproj -> D:\SDK\Leap_Motion_Developer_Kit_4.0.0+52173\LeapSDK\build\Release\RecordPlaybackSample.exe
